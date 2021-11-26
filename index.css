@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+    }
+    body{
+        background-color:black;
+    }
+    
+    .container .row p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16pt;
+    border-color: white;
+    }
+    
+    #TR{
+    background-color: yellow;  
+    }
+    #TM{
+    background-color: yellow;
+    }
+    #FR{
+    background-color: yellow;
+    }
+    
+    .container .row .col-md-3{
+    text-align: center;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 65px;
+    border-radius: 5px;
+    color: black;
+    padding-left: 6px;
+    font-size: 20px;
+    }
+    thead{
+    background-color: black;
+    color: white;
+        
+    }
+    
+    .container .row .col-md-3 img{
+    height: 60px;
+    padding-right: 10px;
+    
+    }
+    
+    td,th{
+    text-align: left 2pt;
+    }
+    
+    .my-custom-scrollbar {
+    position: relative;
+    height: 270px;
+    overflow: auto;
+    
+    }
+    
+    
+    .table-wrapper-scroll-y{
+    display: block;
+    }
+    
+    .col-md-12 p{
+    margin-top:5pt ;
+    border: black 2px;
+    color:black;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color:white;
+    }
+    h1{ 
+    text-align: center;
+    color: red;
+    margin-top: 10vh;
+    margin-bottom: 3vh;
+    }
+    #summary td{
+    text-align: left;
+    color:white;
+    }
+    
+    #report {
+        color:red;
+    }
+    
+    #summary {
+        color: black;
+   }
+    h2  {
+        color: red;
+        text-align: center;
+    }
+ 
+ 
+ 
+ 
